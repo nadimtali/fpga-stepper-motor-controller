@@ -26,9 +26,9 @@ External Power Supply
 
 ![Hardware Setup](images/IMG_3889.jpg)
 
-System Architecture:
+# System Architecture:
 
-# Block Diagram
+Block Diagram:
 
 ![Block Diagram](images/Block_Diagram.png)
 
