@@ -1,0 +1,46 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+# File: C:\Users\Adam TC\Desktop\Step_Motor_Controller\Motor_controller.csv
+# Generated on: Sat May 23 15:02:11 2026
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+clk,Input,PIN_AF14,3B,B3B_N0,PIN_AF14,2.5 V,,,,,,,,,,,,,
+direction,Input,PIN_Y27,5B,B5B_N0,PIN_Y27,2.5 V,,,,,,,,,,,,,
+on,Input,PIN_AB28,5B,B5B_N0,PIN_AB28,2.5 V,,,,,,,,,,,,,
+pulses_out[3],Output,PIN_AJ2,3A,B3A_N0,PIN_AJ2,2.5 V,,,,,,,,,,,,,
+pulses_out[2],Output,PIN_AJ1,3A,B3A_N0,PIN_AJ1,2.5 V,,,,,,,,,,,,,
+pulses_out[1],Output,PIN_AK2,3B,B3B_N0,PIN_AK2,2.5 V,,,,,,,,,,,,,
+pulses_out[0],Output,PIN_W15,3B,B3B_N0,PIN_W15,2.5 V,,,,,,,,,,,,,
+quarter,Input,PIN_AK4,3B,B3B_N0,PIN_AK4,2.5 V,,,,,,,,,,,,,
+resetb,Input,PIN_AJ4,3B,B3B_N0,PIN_AJ4,2.5 V,,,,,,,,,,,,,
+sev_seg_o[6],Output,PIN_AH18,4A,B4A_N0,PIN_AH18,2.5 V,,,,,,,,,,,,,
+sev_seg_o[5],Output,PIN_AG18,4A,B4A_N0,PIN_AG18,2.5 V,,,,,,,,,,,,,
+sev_seg_o[4],Output,PIN_AH17,4A,B4A_N0,PIN_AH17,2.5 V,,,,,,,,,,,,,
+sev_seg_o[3],Output,PIN_AG16,4A,B4A_N0,PIN_AG16,2.5 V,,,,,,,,,,,,,
+sev_seg_o[2],Output,PIN_AG17,4A,B4A_N0,PIN_AG17,2.5 V,,,,,,,,,,,,,
+sev_seg_o[1],Output,PIN_V18,4A,B4A_N0,PIN_V18,2.5 V,,,,,,,,,,,,,
+sev_seg_o[0],Output,PIN_W17,4A,B4A_N0,PIN_W17,2.5 V,,,,,,,,,,,,,
+sev_seg_t[6],Output,PIN_V17,4A,B4A_N0,PIN_V17,2.5 V,,,,,,,,,,,,,
+sev_seg_t[5],Output,PIN_AE17,4A,B4A_N0,PIN_AE17,2.5 V,,,,,,,,,,,,,
+sev_seg_t[4],Output,PIN_AE18,4A,B4A_N0,PIN_AE18,2.5 V,,,,,,,,,,,,,
+sev_seg_t[3],Output,PIN_AD17,4A,B4A_N0,PIN_AD17,2.5 V,,,,,,,,,,,,,
+sev_seg_t[2],Output,PIN_AE16,4A,B4A_N0,PIN_AE16,2.5 V,,,,,,,,,,,,,
+sev_seg_t[1],Output,PIN_V16,4A,B4A_N0,PIN_V16,2.5 V,,,,,,,,,,,,,
+sev_seg_t[0],Output,PIN_AF16,4A,B4A_N0,PIN_AF16,2.5 V,,,,,,,,,,,,,
+speed_sel,Input,PIN_AA15,3B,B3B_N0,PIN_AA15,2.5 V,,,,,,,,,,,,,
+step_size,Input,PIN_AC30,5B,B5B_N0,PIN_AC30,2.5 V,,,,,,,,,,,,,
