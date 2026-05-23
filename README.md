@@ -24,13 +24,13 @@ External Power Supply
 
 # Hardware Setup
 
-![Hardware Setup](IMG_3889.jpg)
+![Hardware Setup](images/IMG_3889.jpg)
 
 System Architecture:
 
 # Block Diagram
 
-![Block Diagram](Block_Diagram.png)
+![Block Diagram](images/Block_Diagram.png)
 
 Controls:
 
