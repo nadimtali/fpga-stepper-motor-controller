@@ -49,16 +49,9 @@ The motor speed changes in 10 RPM increments:
 The current speed is displayed using HEX0 and HEX1.
 
 Project Files:
-src/
-│
-├── button_one_pulse.sv
-├── motion_controller.sv
-├── speed_controller.sv
-├── speed_display.sv
-├── seven_seg_digit.sv
-├── step_sequence_driver.sv
-├── step_tick_generator.sv
-└── step_motor_top.sv
+src:
+button_one_pulse.sv , motion_controller.sv , speed_controller.sv , speed_display.sv , seven_seg_digit.sv , step_sequence_driver.sv
+, step_tick_generator.sv , step_motor_top.sv
 
 FPGA Pin Assignments:
 | Signal  | FPGA Pin |
