@@ -14,7 +14,7 @@ External stepper motor driver interface
 
 # Demonstration Video
 
-[Click here to watch the demo](https://drive.google.com/drive/u/0/folders/1nrFBBEvt4XcYknZoaIi0xSqabtPG-4tD)
+[Click here to watch the demo]([https://drive.google.com/drive/u/0/folders/1nrFBBEvt4XcYknZoaIi0xSqabtPG-4tD](https://drive.google.com/drive/folders/1nrFBBEvt4XcYknZoaIi0xSqabtPG-4tD?usp=drive_link))
 
 Hardware Used:
 Intel / Altera DE10-Standard FPGA Board
