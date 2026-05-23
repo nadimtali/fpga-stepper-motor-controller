@@ -1,4 +1,4 @@
-FPGA Stepper Motor Controller:
+# FPGA Stepper Motor Controller:
 
 A real-time FPGA-based stepper motor controller implemented in SystemVerilog on the DE10-Standard FPGA platform.
 The project controls a bipolar stepper motor using configurable motion modes, variable speed control, and hardware-level state machine logic.
